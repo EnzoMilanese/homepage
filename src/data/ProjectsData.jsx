@@ -1,6 +1,18 @@
 const ProjectsData = () =>{
     return[
         {
+            name: "Bird Game Jam 2025",
+            description: "Clique aqui pra acessar os jogos criados na primeira edição da Bird Game Jam de 2025!",
+            url: "https://birdgamejam.itch.io/",
+            imgUrl: "projectIcons/birdgamejam2025.png"
+        },
+        {
+            name: "LE FOL",
+            description: "Primeiro projeto do meu estúdio, <a style='color:blue' href='https://linktr.ee/mirisarcana'>MIRIS Arcana</a>, junto com a <a style='color:blue' href='https://linktr.ee/zagoiris'>zagoiris</a>. Ela na arte e eu na programação ♥",
+            url: "https://store.steampowered.com/app/3472140/LE_FOL/",
+            imgUrl: "projectIcons/steam.svg"
+        },
+        {
             name: "Homepage com React.js + Vite",
             description: "Projeto de homepage utilizando os frameworks React.js para interface, Vite.js como bundler e hosteado no GitHub Pages. Você está acessando ele agora mesmo :)",
             url: "https://enzomilanese.github.io/homepage/",

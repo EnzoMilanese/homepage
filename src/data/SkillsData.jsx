@@ -2,6 +2,8 @@ const SkillsData = () =>{
     return[
         ".NET", 
         ".NET Core", 
+        "Unity",
+        "Game Design",
         "Azure", 
         "AWS", 
         "React.js", 
