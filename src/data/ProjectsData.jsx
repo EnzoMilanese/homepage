@@ -10,7 +10,7 @@ const ProjectsData = () =>{
             name: "LE FOL",
             description: "Primeiro projeto do meu estúdio, <a style='color:blue' href='https://linktr.ee/mirisarcana'>MIRIS Arcana</a>, junto com a <a style='color:blue' href='https://linktr.ee/zagoiris'>zagoiris</a>. Ela na arte e eu na programação ♥",
             url: "https://store.steampowered.com/app/3472140/LE_FOL/",
-            imgUrl: "projectIcons/steam.svg"
+            imgUrl: "projectIcons/lefol.png"
         },
         {
             name: "Homepage com React.js + Vite",
